@@ -1,0 +1,2 @@
+TEST_EMAIL = "your_test_email@example.com"
+TEST_PASSWORD = "your_test_password"
